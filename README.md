@@ -14,15 +14,10 @@ A full-stack AI-powered SaaS application that allows users to remove image backg
 - 🧩 Built with modular, scalable architecture
 
 ---
-
 ## 🎬 Live App Walkthrough
 
-> Below is a screen recording of the login flow, homepage, and image upload in action:
 
 ![App Demo](screenshots/demo.gif)
-
-
-
 
 ---
 
@@ -30,9 +25,10 @@ A full-stack AI-powered SaaS application that allows users to remove image backg
 
 | Login Page | Home Page | Upload Interface |
 |------------|-----------|------------------|
-| ![Login](screenshots/login.png) | ![Home](screenshots/home.png) | ![Upload](screenshots/upload.png) |
+| ![Login](screenshots/login.png) | ![Home](screenshots/home.png) | ![Upload](screenshots/upload_interface.png) |
 
-> Add your screenshots inside a folder named `/screenshots` in the root directory and rename them accordingly.
+
+
 
 ---
 
